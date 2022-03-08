@@ -1,0 +1,15 @@
+C:\Users\Furkan\source\repos\veritabanıproje\veritabanıproje\obj\Debug\veritabanıproje.csproj.AssemblyReference.cache
+C:\Users\Furkan\source\repos\veritabanıproje\veritabanıproje\obj\Debug\veritabanıproje.Properties.Resources.resources
+C:\Users\Furkan\source\repos\veritabanıproje\veritabanıproje\obj\Debug\veritabanıproje.csproj.GenerateResource.cache
+C:\Users\Furkan\source\repos\veritabanıproje\veritabanıproje\obj\Debug\veritabanıproje.csproj.CoreCompileInputs.cache
+C:\Users\Furkan\source\repos\veritabanıproje\veritabanıproje\bin\Debug\veritabanıproje.exe.config
+C:\Users\Furkan\source\repos\veritabanıproje\veritabanıproje\bin\Debug\veritabanıproje.exe
+C:\Users\Furkan\source\repos\veritabanıproje\veritabanıproje\bin\Debug\veritabanıproje.pdb
+C:\Users\Furkan\source\repos\veritabanıproje\veritabanıproje\obj\Debug\veritabanıproje.exe
+C:\Users\Furkan\source\repos\veritabanıproje\veritabanıproje\obj\Debug\veritabanıproje.pdb
+C:\Users\Furkan\source\repos\veritabanıproje\veritabanıproje\obj\Debug\veritabanıproje.FormEkle.resources
+C:\Users\Furkan\source\repos\veritabanıproje\veritabanıproje\obj\Debug\veritabanıproje.FormSorgu.resources
+C:\Users\Furkan\source\repos\veritabanıproje\veritabanıproje\obj\Debug\veritabanıproje.FormGiris.resources
+C:\Users\Furkan\source\repos\veritabanıproje\veritabanıproje\obj\Debug\veritabanıproje.FormKayıt.resources
+C:\Users\Furkan\source\repos\veritabanıproje\veritabanıproje\obj\Debug\veritabanıproje.FormSil.resources
+C:\Users\Furkan\source\repos\veritabanıproje\veritabanıproje\obj\Debug\veritabanıproje.FormGirisKontrol.resources
